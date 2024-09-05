@@ -76,3 +76,11 @@ p {
 .redirect-button:hover {
     background-color: #0056b3;
 }
+
+.centro{
+    text-align: center;
+}
+
+.centro img{
+    display: inline-block;
+}
